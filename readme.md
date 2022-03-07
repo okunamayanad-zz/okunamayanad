@@ -8,6 +8,6 @@ I know;
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okunamayanad&layout=compact"/>
 
-- **Full-stack** (Backend and Frontend) **web** development using **HTML CSS JS PHP**.  *(but I didn't made any repos for my web pages)*
+- **Full-stack** **web** development using **HTML CSS JS PHP**.  *(but I didn't made any repos for my web pages)*
 
 
