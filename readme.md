@@ -9,4 +9,4 @@ I know;
 - **Full-stack** (Backend and Frontend) **web** development using **HTML CSS JS PHP**.
 
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=okunamayanad)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakr233&layout=compact"/>
