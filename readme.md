@@ -18,3 +18,5 @@ I know;
 
 - Discord: okunamayanad#5406
 - Personal e-mail: okunamayanad@gmail.com
+
+If you want some help for any type of project please contact me I'll help as much as I can
