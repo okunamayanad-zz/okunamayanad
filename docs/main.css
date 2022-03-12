@@ -2,3 +2,7 @@
     background: rgb(113,0,226);
     background: linear-gradient(130deg, rgba(113,0,226,1) 0%, rgba(255,0,91,1) 100%);
 }
+
+.body{
+    background-color: black;
+}
