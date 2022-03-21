@@ -10,6 +10,7 @@ I know;
 
 - **Full-stack** **web** development using **HTML CSS JS PHP**.  *(but I didn't made repos for most of 'em)*
 - **Unity** development _([Click here for my published projects](https://okunamayanad.itch.io/))_
+- **Discord bot** development using **DiscordJS** 
 
 <br>
 <br>
